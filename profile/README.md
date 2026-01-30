@@ -132,18 +132,6 @@ Developer   Developer  Engineer   Specialist
 
 ---
 
-## 📞 Contacto
-
-<div align="center">
-
-### ¿Interesado en nuestras soluciones?
-
-[![Email](https://img.shields.io/badge/Email-contact@datapioneers.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@datapioneers.com)
-[![Website](https://img.shields.io/badge/Website-datapioneers.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://datapioneers.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Data_Pioneers-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/datapioneers)
-
----
-
 ### 🔐 Nota de Seguridad
 
 > Todos nuestros repositorios son **privados** para garantizar la seguridad del código y proteger la propiedad intelectual de nuestros clientes.
